@@ -1,0 +1,22 @@
+{
+  "name": "@fullstack/server",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "mocha tests/"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "mysql": "2.18.1",
+    "node-fetch": "^2.6.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0",
+    "nodemon": "2.0.2",
+    "sinon": "^9.0.2"
+  }
+}
