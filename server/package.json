@@ -10,7 +10,7 @@
     "cors": "^2.8.5",
     "express": "4.17.1",
     "mysql": "2.18.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "supertest": "^4.0.2"
   },
   "devDependencies": {
